@@ -1,0 +1,7 @@
+.blueish {
+    background-color: lightblue;
+    color: navy;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px double navy;
+}
