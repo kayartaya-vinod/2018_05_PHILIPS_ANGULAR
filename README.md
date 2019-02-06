@@ -1,7 +1,14 @@
-# Angular 
----
-
-
-If you see a package.json file, you may run `npm i` to install dependencies.
-
-The day2 folder contains the phonebook app as well as the REST endpoint required for the same.2018_05_PHILIPS_ANGULAR
+<table>
+<tr>
+    <td>
+        <a href="http://bit.ly/2D9pxjW" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/angular7.jpeg">
+        </a>
+    </td>
+    <td>
+        <a href="https://www.udemy.com/mongodb-fundamentals/?couponCode=FIRST500" target="_blank">
+        <img src="https://github.com/kayartaya-vinod/2018_11_Unisys_TypeORM/raw/master/mongodb.jpeg">
+        </a>
+    </td>
+</tr>
+</table>
